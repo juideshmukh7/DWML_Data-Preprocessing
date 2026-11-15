@@ -1,0 +1,501 @@
+Transaction_ID,Customer_ID,Book_ID,Book_Name,Category,Quantity,Order_Date
+T001,C1001,1,Python Programming,Programming,1,2026-01-01
+T001,C1001,2,Data Science Handbook,Data Science,1,2026-01-01
+T001,C1001,3,SQL Fundamentals,Database,1,2026-01-01
+T001,C1001,4,Database Management Systems,Database,1,2026-01-01
+T001,C1001,5,Machine Learning Basics,AI,1,2026-01-01
+T002,C1002,1,Python Programming,Programming,1,2026-01-02
+T002,C1002,2,Data Science Handbook,Data Science,1,2026-01-02
+T002,C1002,3,SQL Fundamentals,Database,1,2026-01-02
+T002,C1002,4,Database Management Systems,Database,1,2026-01-02
+T002,C1002,5,Machine Learning Basics,AI,1,2026-01-02
+T003,C1003,1,Python Programming,Programming,1,2026-01-03
+T003,C1003,2,Data Science Handbook,Data Science,1,2026-01-03
+T003,C1003,3,SQL Fundamentals,Database,1,2026-01-03
+T003,C1003,4,Database Management Systems,Database,1,2026-01-03
+T003,C1003,5,Machine Learning Basics,AI,1,2026-01-03
+T004,C1004,1,Python Programming,Programming,1,2026-01-04
+T004,C1004,2,Data Science Handbook,Data Science,1,2026-01-04
+T004,C1004,3,SQL Fundamentals,Database,1,2026-01-04
+T004,C1004,4,Database Management Systems,Database,1,2026-01-04
+T004,C1004,5,Machine Learning Basics,AI,1,2026-01-04
+T005,C1005,1,Python Programming,Programming,1,2026-01-05
+T005,C1005,2,Data Science Handbook,Data Science,1,2026-01-05
+T005,C1005,3,SQL Fundamentals,Database,1,2026-01-05
+T005,C1005,4,Database Management Systems,Database,1,2026-01-05
+T005,C1005,5,Machine Learning Basics,AI,1,2026-01-05
+T006,C1006,1,Python Programming,Programming,1,2026-01-06
+T006,C1006,2,Data Science Handbook,Data Science,1,2026-01-06
+T006,C1006,3,SQL Fundamentals,Database,1,2026-01-06
+T006,C1006,4,Database Management Systems,Database,1,2026-01-06
+T006,C1006,5,Machine Learning Basics,AI,1,2026-01-06
+T007,C1007,1,Python Programming,Programming,1,2026-01-07
+T007,C1007,2,Data Science Handbook,Data Science,1,2026-01-07
+T007,C1007,3,SQL Fundamentals,Database,1,2026-01-07
+T007,C1007,4,Database Management Systems,Database,1,2026-01-07
+T007,C1007,5,Machine Learning Basics,AI,1,2026-01-07
+T008,C1008,1,Python Programming,Programming,1,2026-01-08
+T008,C1008,2,Data Science Handbook,Data Science,1,2026-01-08
+T008,C1008,3,SQL Fundamentals,Database,1,2026-01-08
+T008,C1008,4,Database Management Systems,Database,1,2026-01-08
+T008,C1008,5,Machine Learning Basics,AI,1,2026-01-08
+T009,C1009,1,Python Programming,Programming,1,2026-01-09
+T009,C1009,2,Data Science Handbook,Data Science,1,2026-01-09
+T009,C1009,3,SQL Fundamentals,Database,1,2026-01-09
+T009,C1009,4,Database Management Systems,Database,1,2026-01-09
+T009,C1009,5,Machine Learning Basics,AI,1,2026-01-09
+T010,C1010,1,Python Programming,Programming,1,2026-01-10
+T010,C1010,2,Data Science Handbook,Data Science,1,2026-01-10
+T010,C1010,3,SQL Fundamentals,Database,1,2026-01-10
+T010,C1010,4,Database Management Systems,Database,1,2026-01-10
+T010,C1010,5,Machine Learning Basics,AI,1,2026-01-10
+T011,C1011,1,Python Programming,Programming,1,2026-01-11
+T011,C1011,2,Data Science Handbook,Data Science,1,2026-01-11
+T011,C1011,3,SQL Fundamentals,Database,1,2026-01-11
+T011,C1011,4,Database Management Systems,Database,1,2026-01-11
+T011,C1011,5,Machine Learning Basics,AI,1,2026-01-11
+T012,C1012,1,Python Programming,Programming,1,2026-01-12
+T012,C1012,2,Data Science Handbook,Data Science,1,2026-01-12
+T012,C1012,3,SQL Fundamentals,Database,1,2026-01-12
+T012,C1012,4,Database Management Systems,Database,1,2026-01-12
+T012,C1012,5,Machine Learning Basics,AI,1,2026-01-12
+T013,C1013,1,Python Programming,Programming,1,2026-01-13
+T013,C1013,2,Data Science Handbook,Data Science,1,2026-01-13
+T013,C1013,3,SQL Fundamentals,Database,1,2026-01-13
+T013,C1013,4,Database Management Systems,Database,1,2026-01-13
+T013,C1013,5,Machine Learning Basics,AI,1,2026-01-13
+T014,C1014,1,Python Programming,Programming,1,2026-01-14
+T014,C1014,2,Data Science Handbook,Data Science,1,2026-01-14
+T014,C1014,3,SQL Fundamentals,Database,1,2026-01-14
+T014,C1014,4,Database Management Systems,Database,1,2026-01-14
+T014,C1014,5,Machine Learning Basics,AI,1,2026-01-14
+T015,C1015,1,Python Programming,Programming,1,2026-01-15
+T015,C1015,2,Data Science Handbook,Data Science,1,2026-01-15
+T015,C1015,3,SQL Fundamentals,Database,1,2026-01-15
+T015,C1015,4,Database Management Systems,Database,1,2026-01-15
+T015,C1015,5,Machine Learning Basics,AI,1,2026-01-15
+T016,C1016,1,Python Programming,Programming,1,2026-01-16
+T016,C1016,2,Data Science Handbook,Data Science,1,2026-01-16
+T016,C1016,3,SQL Fundamentals,Database,1,2026-01-16
+T016,C1016,4,Database Management Systems,Database,1,2026-01-16
+T016,C1016,5,Machine Learning Basics,AI,1,2026-01-16
+T017,C1017,1,Python Programming,Programming,1,2026-01-17
+T017,C1017,2,Data Science Handbook,Data Science,1,2026-01-17
+T017,C1017,3,SQL Fundamentals,Database,1,2026-01-17
+T017,C1017,4,Database Management Systems,Database,1,2026-01-17
+T017,C1017,5,Machine Learning Basics,AI,1,2026-01-17
+T018,C1018,1,Python Programming,Programming,1,2026-01-18
+T018,C1018,2,Data Science Handbook,Data Science,1,2026-01-18
+T018,C1018,3,SQL Fundamentals,Database,1,2026-01-18
+T018,C1018,4,Database Management Systems,Database,1,2026-01-18
+T018,C1018,5,Machine Learning Basics,AI,1,2026-01-18
+T019,C1019,1,Python Programming,Programming,1,2026-01-19
+T019,C1019,2,Data Science Handbook,Data Science,1,2026-01-19
+T019,C1019,3,SQL Fundamentals,Database,1,2026-01-19
+T019,C1019,4,Database Management Systems,Database,1,2026-01-19
+T019,C1019,5,Machine Learning Basics,AI,1,2026-01-19
+T020,C1020,1,Python Programming,Programming,1,2026-01-20
+T020,C1020,2,Data Science Handbook,Data Science,1,2026-01-20
+T020,C1020,3,SQL Fundamentals,Database,1,2026-01-20
+T020,C1020,4,Database Management Systems,Database,1,2026-01-20
+T020,C1020,5,Machine Learning Basics,AI,1,2026-01-20
+T021,C1021,1,Python Programming,Programming,1,2026-01-21
+T021,C1021,2,Data Science Handbook,Data Science,1,2026-01-21
+T021,C1021,3,SQL Fundamentals,Database,1,2026-01-21
+T021,C1021,4,Database Management Systems,Database,1,2026-01-21
+T021,C1021,5,Machine Learning Basics,AI,1,2026-01-21
+T022,C1022,1,Python Programming,Programming,1,2026-01-22
+T022,C1022,2,Data Science Handbook,Data Science,1,2026-01-22
+T022,C1022,3,SQL Fundamentals,Database,1,2026-01-22
+T022,C1022,4,Database Management Systems,Database,1,2026-01-22
+T022,C1022,5,Machine Learning Basics,AI,1,2026-01-22
+T023,C1023,1,Python Programming,Programming,1,2026-01-23
+T023,C1023,2,Data Science Handbook,Data Science,1,2026-01-23
+T023,C1023,3,SQL Fundamentals,Database,1,2026-01-23
+T023,C1023,4,Database Management Systems,Database,1,2026-01-23
+T023,C1023,5,Machine Learning Basics,AI,1,2026-01-23
+T024,C1024,1,Python Programming,Programming,1,2026-01-24
+T024,C1024,2,Data Science Handbook,Data Science,1,2026-01-24
+T024,C1024,3,SQL Fundamentals,Database,1,2026-01-24
+T024,C1024,4,Database Management Systems,Database,1,2026-01-24
+T024,C1024,5,Machine Learning Basics,AI,1,2026-01-24
+T025,C1025,1,Python Programming,Programming,1,2026-01-25
+T025,C1025,2,Data Science Handbook,Data Science,1,2026-01-25
+T025,C1025,3,SQL Fundamentals,Database,1,2026-01-25
+T025,C1025,4,Database Management Systems,Database,1,2026-01-25
+T025,C1025,5,Machine Learning Basics,AI,1,2026-01-25
+T026,C1026,1,Python Programming,Programming,1,2026-01-26
+T026,C1026,2,Data Science Handbook,Data Science,1,2026-01-26
+T026,C1026,3,SQL Fundamentals,Database,1,2026-01-26
+T026,C1026,4,Database Management Systems,Database,1,2026-01-26
+T026,C1026,5,Machine Learning Basics,AI,1,2026-01-26
+T027,C1027,1,Python Programming,Programming,1,2026-01-27
+T027,C1027,2,Data Science Handbook,Data Science,1,2026-01-27
+T027,C1027,3,SQL Fundamentals,Database,1,2026-01-27
+T027,C1027,4,Database Management Systems,Database,1,2026-01-27
+T027,C1027,5,Machine Learning Basics,AI,1,2026-01-27
+T028,C1028,1,Python Programming,Programming,1,2026-01-28
+T028,C1028,2,Data Science Handbook,Data Science,1,2026-01-28
+T028,C1028,3,SQL Fundamentals,Database,1,2026-01-28
+T028,C1028,4,Database Management Systems,Database,1,2026-01-28
+T028,C1028,5,Machine Learning Basics,AI,1,2026-01-28
+T029,C1029,1,Python Programming,Programming,1,2026-01-29
+T029,C1029,2,Data Science Handbook,Data Science,1,2026-01-29
+T029,C1029,3,SQL Fundamentals,Database,1,2026-01-29
+T029,C1029,4,Database Management Systems,Database,1,2026-01-29
+T029,C1029,5,Machine Learning Basics,AI,1,2026-01-29
+T030,C1030,1,Python Programming,Programming,1,2026-01-30
+T030,C1030,2,Data Science Handbook,Data Science,1,2026-01-30
+T030,C1030,3,SQL Fundamentals,Database,1,2026-01-30
+T030,C1030,4,Database Management Systems,Database,1,2026-01-30
+T030,C1030,5,Machine Learning Basics,AI,1,2026-01-30
+T031,C1031,1,Python Programming,Programming,1,2026-01-31
+T031,C1031,2,Data Science Handbook,Data Science,1,2026-01-31
+T031,C1031,3,SQL Fundamentals,Database,1,2026-01-31
+T031,C1031,4,Database Management Systems,Database,1,2026-01-31
+T031,C1031,5,Machine Learning Basics,AI,1,2026-01-31
+T032,C1032,1,Python Programming,Programming,1,2026-02-01
+T032,C1032,2,Data Science Handbook,Data Science,1,2026-02-01
+T032,C1032,3,SQL Fundamentals,Database,1,2026-02-01
+T032,C1032,4,Database Management Systems,Database,1,2026-02-01
+T032,C1032,5,Machine Learning Basics,AI,1,2026-02-01
+T033,C1033,1,Python Programming,Programming,1,2026-02-02
+T033,C1033,2,Data Science Handbook,Data Science,1,2026-02-02
+T033,C1033,3,SQL Fundamentals,Database,1,2026-02-02
+T033,C1033,4,Database Management Systems,Database,1,2026-02-02
+T033,C1033,5,Machine Learning Basics,AI,1,2026-02-02
+T034,C1034,1,Python Programming,Programming,1,2026-02-03
+T034,C1034,2,Data Science Handbook,Data Science,1,2026-02-03
+T034,C1034,3,SQL Fundamentals,Database,1,2026-02-03
+T034,C1034,4,Database Management Systems,Database,1,2026-02-03
+T034,C1034,5,Machine Learning Basics,AI,1,2026-02-03
+T035,C1035,1,Python Programming,Programming,1,2026-02-04
+T035,C1035,2,Data Science Handbook,Data Science,1,2026-02-04
+T035,C1035,3,SQL Fundamentals,Database,1,2026-02-04
+T035,C1035,4,Database Management Systems,Database,1,2026-02-04
+T035,C1035,5,Machine Learning Basics,AI,1,2026-02-04
+T036,C1036,1,Python Programming,Programming,1,2026-02-05
+T036,C1036,2,Data Science Handbook,Data Science,1,2026-02-05
+T036,C1036,3,SQL Fundamentals,Database,1,2026-02-05
+T036,C1036,4,Database Management Systems,Database,1,2026-02-05
+T036,C1036,5,Machine Learning Basics,AI,1,2026-02-05
+T037,C1037,1,Python Programming,Programming,1,2026-02-06
+T037,C1037,2,Data Science Handbook,Data Science,1,2026-02-06
+T037,C1037,3,SQL Fundamentals,Database,1,2026-02-06
+T037,C1037,4,Database Management Systems,Database,1,2026-02-06
+T037,C1037,5,Machine Learning Basics,AI,1,2026-02-06
+T038,C1038,1,Python Programming,Programming,1,2026-02-07
+T038,C1038,2,Data Science Handbook,Data Science,1,2026-02-07
+T038,C1038,3,SQL Fundamentals,Database,1,2026-02-07
+T038,C1038,4,Database Management Systems,Database,1,2026-02-07
+T038,C1038,5,Machine Learning Basics,AI,1,2026-02-07
+T039,C1039,1,Python Programming,Programming,1,2026-02-08
+T039,C1039,2,Data Science Handbook,Data Science,1,2026-02-08
+T039,C1039,3,SQL Fundamentals,Database,1,2026-02-08
+T039,C1039,4,Database Management Systems,Database,1,2026-02-08
+T039,C1039,5,Machine Learning Basics,AI,1,2026-02-08
+T040,C1040,1,Python Programming,Programming,1,2026-02-09
+T040,C1040,2,Data Science Handbook,Data Science,1,2026-02-09
+T040,C1040,3,SQL Fundamentals,Database,1,2026-02-09
+T040,C1040,4,Database Management Systems,Database,1,2026-02-09
+T040,C1040,5,Machine Learning Basics,AI,1,2026-02-09
+T041,C1041,1,Python Programming,Programming,1,2026-02-10
+T041,C1041,2,Data Science Handbook,Data Science,1,2026-02-10
+T041,C1041,3,SQL Fundamentals,Database,1,2026-02-10
+T041,C1041,4,Database Management Systems,Database,1,2026-02-10
+T041,C1041,5,Machine Learning Basics,AI,1,2026-02-10
+T042,C1042,1,Python Programming,Programming,1,2026-02-11
+T042,C1042,2,Data Science Handbook,Data Science,1,2026-02-11
+T042,C1042,3,SQL Fundamentals,Database,1,2026-02-11
+T042,C1042,4,Database Management Systems,Database,1,2026-02-11
+T042,C1042,5,Machine Learning Basics,AI,1,2026-02-11
+T043,C1043,1,Python Programming,Programming,1,2026-02-12
+T043,C1043,2,Data Science Handbook,Data Science,1,2026-02-12
+T043,C1043,3,SQL Fundamentals,Database,1,2026-02-12
+T043,C1043,4,Database Management Systems,Database,1,2026-02-12
+T043,C1043,5,Machine Learning Basics,AI,1,2026-02-12
+T044,C1044,1,Python Programming,Programming,1,2026-02-13
+T044,C1044,2,Data Science Handbook,Data Science,1,2026-02-13
+T044,C1044,3,SQL Fundamentals,Database,1,2026-02-13
+T044,C1044,4,Database Management Systems,Database,1,2026-02-13
+T044,C1044,5,Machine Learning Basics,AI,1,2026-02-13
+T045,C1045,1,Python Programming,Programming,1,2026-02-14
+T045,C1045,2,Data Science Handbook,Data Science,1,2026-02-14
+T045,C1045,3,SQL Fundamentals,Database,1,2026-02-14
+T045,C1045,4,Database Management Systems,Database,1,2026-02-14
+T045,C1045,5,Machine Learning Basics,AI,1,2026-02-14
+T046,C1046,1,Python Programming,Programming,1,2026-02-15
+T046,C1046,2,Data Science Handbook,Data Science,1,2026-02-15
+T046,C1046,3,SQL Fundamentals,Database,1,2026-02-15
+T046,C1046,4,Database Management Systems,Database,1,2026-02-15
+T046,C1046,15,Harry Potter,Fiction,1,2026-02-15
+T047,C1047,1,Python Programming,Programming,1,2026-02-16
+T047,C1047,2,Data Science Handbook,Data Science,1,2026-02-16
+T047,C1047,3,SQL Fundamentals,Database,1,2026-02-16
+T047,C1047,4,Database Management Systems,Database,1,2026-02-16
+T047,C1047,15,Harry Potter,Fiction,1,2026-02-16
+T048,C1048,1,Python Programming,Programming,1,2026-02-17
+T048,C1048,2,Data Science Handbook,Data Science,1,2026-02-17
+T048,C1048,3,SQL Fundamentals,Database,1,2026-02-17
+T048,C1048,4,Database Management Systems,Database,1,2026-02-17
+T048,C1048,15,Harry Potter,Fiction,1,2026-02-17
+T049,C1049,1,Python Programming,Programming,1,2026-02-18
+T049,C1049,2,Data Science Handbook,Data Science,1,2026-02-18
+T049,C1049,3,SQL Fundamentals,Database,1,2026-02-18
+T049,C1049,4,Database Management Systems,Database,1,2026-02-18
+T049,C1049,15,Harry Potter,Fiction,1,2026-02-18
+T050,C1050,1,Python Programming,Programming,1,2026-02-19
+T050,C1050,2,Data Science Handbook,Data Science,1,2026-02-19
+T050,C1050,3,SQL Fundamentals,Database,1,2026-02-19
+T050,C1050,4,Database Management Systems,Database,1,2026-02-19
+T050,C1050,15,Harry Potter,Fiction,1,2026-02-19
+T051,C1051,1,Python Programming,Programming,1,2026-02-20
+T051,C1051,2,Data Science Handbook,Data Science,1,2026-02-20
+T051,C1051,3,SQL Fundamentals,Database,1,2026-02-20
+T051,C1051,13,Clean Code,Programming,1,2026-02-20
+T051,C1051,25,Ikigai,Self Help,1,2026-02-20
+T052,C1052,1,Python Programming,Programming,1,2026-02-21
+T052,C1052,2,Data Science Handbook,Data Science,1,2026-02-21
+T052,C1052,3,SQL Fundamentals,Database,1,2026-02-21
+T052,C1052,7,Web Development with HTML CSS JS,Web,1,2026-02-21
+T052,C1052,12,Design and Analysis of Algorithms,Computer Science,1,2026-02-21
+T053,C1053,1,Python Programming,Programming,1,2026-02-22
+T053,C1053,2,Data Science Handbook,Data Science,1,2026-02-22
+T053,C1053,3,SQL Fundamentals,Database,1,2026-02-22
+T053,C1053,4,Database Management Systems,Database,1,2026-02-22
+T053,C1053,12,Design and Analysis of Algorithms,Computer Science,1,2026-02-22
+T054,C1054,1,Python Programming,Programming,1,2026-02-23
+T054,C1054,2,Data Science Handbook,Data Science,1,2026-02-23
+T054,C1054,3,SQL Fundamentals,Database,1,2026-02-23
+T054,C1054,6,Artificial Intelligence,AI,1,2026-02-23
+T054,C1054,11,Operating Systems,Systems,1,2026-02-23
+T055,C1055,1,Python Programming,Programming,1,2026-02-24
+T055,C1055,2,Data Science Handbook,Data Science,1,2026-02-24
+T055,C1055,3,SQL Fundamentals,Database,1,2026-02-24
+T055,C1055,7,Web Development with HTML CSS JS,Web,1,2026-02-24
+T055,C1055,9,Java Programming,Programming,1,2026-02-24
+T056,C1056,1,Python Programming,Programming,1,2026-02-25
+T056,C1056,2,Data Science Handbook,Data Science,1,2026-02-25
+T056,C1056,3,SQL Fundamentals,Database,1,2026-02-25
+T056,C1056,10,Computer Networks,Networking,1,2026-02-25
+T056,C1056,14,Deep Learning,AI,1,2026-02-25
+T057,C1057,1,Python Programming,Programming,1,2026-02-26
+T057,C1057,2,Data Science Handbook,Data Science,1,2026-02-26
+T057,C1057,3,SQL Fundamentals,Database,1,2026-02-26
+T057,C1057,13,Clean Code,Programming,1,2026-02-26
+T057,C1057,22,The Psychology of Money,Finance,1,2026-02-26
+T058,C1058,1,Python Programming,Programming,1,2026-02-27
+T058,C1058,2,Data Science Handbook,Data Science,1,2026-02-27
+T058,C1058,3,SQL Fundamentals,Database,1,2026-02-27
+T058,C1058,6,Artificial Intelligence,AI,1,2026-02-27
+T058,C1058,22,The Psychology of Money,Finance,1,2026-02-27
+T059,C1059,1,Python Programming,Programming,1,2026-02-28
+T059,C1059,2,Data Science Handbook,Data Science,1,2026-02-28
+T059,C1059,3,SQL Fundamentals,Database,1,2026-02-28
+T059,C1059,5,Machine Learning Basics,AI,1,2026-02-28
+T059,C1059,17,The Lord of the Rings,Fiction,1,2026-02-28
+T060,C1060,1,Python Programming,Programming,1,2026-03-01
+T060,C1060,2,Data Science Handbook,Data Science,1,2026-03-01
+T060,C1060,3,SQL Fundamentals,Database,1,2026-03-01
+T060,C1060,6,Artificial Intelligence,AI,1,2026-03-01
+T060,C1060,13,Clean Code,Programming,1,2026-03-01
+T061,C1061,1,Python Programming,Programming,1,2026-03-02
+T061,C1061,2,Data Science Handbook,Data Science,1,2026-03-02
+T061,C1061,9,Java Programming,Programming,1,2026-03-02
+T061,C1061,10,Computer Networks,Networking,1,2026-03-02
+T061,C1061,19,1984,Fiction,1,2026-03-02
+T062,C1062,1,Python Programming,Programming,1,2026-03-03
+T062,C1062,2,Data Science Handbook,Data Science,1,2026-03-03
+T062,C1062,3,SQL Fundamentals,Database,1,2026-03-03
+T062,C1062,20,The Great Gatsby,Fiction,1,2026-03-03
+T062,C1062,22,The Psychology of Money,Finance,1,2026-03-03
+T063,C1063,1,Python Programming,Programming,1,2026-03-04
+T063,C1063,2,Data Science Handbook,Data Science,1,2026-03-04
+T063,C1063,11,Operating Systems,Systems,1,2026-03-04
+T063,C1063,13,Clean Code,Programming,1,2026-03-04
+T063,C1063,14,Deep Learning,AI,1,2026-03-04
+T064,C1064,1,Python Programming,Programming,1,2026-03-05
+T064,C1064,2,Data Science Handbook,Data Science,1,2026-03-05
+T064,C1064,9,Java Programming,Programming,1,2026-03-05
+T064,C1064,10,Computer Networks,Networking,1,2026-03-05
+T064,C1064,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-05
+T065,C1065,1,Python Programming,Programming,1,2026-03-06
+T065,C1065,2,Data Science Handbook,Data Science,1,2026-03-06
+T065,C1065,7,Web Development with HTML CSS JS,Web,1,2026-03-06
+T065,C1065,21,Atomic Habits,Self Help,1,2026-03-06
+T065,C1065,24,Think and Grow Rich,Self Help,1,2026-03-06
+T066,C1066,1,Python Programming,Programming,1,2026-03-07
+T066,C1066,2,Data Science Handbook,Data Science,1,2026-03-07
+T066,C1066,6,Artificial Intelligence,AI,1,2026-03-07
+T066,C1066,13,Clean Code,Programming,1,2026-03-07
+T066,C1066,18,The Alchemist,Fiction,1,2026-03-07
+T067,C1067,1,Python Programming,Programming,1,2026-03-08
+T067,C1067,2,Data Science Handbook,Data Science,1,2026-03-08
+T067,C1067,10,Computer Networks,Networking,1,2026-03-08
+T067,C1067,17,The Lord of the Rings,Fiction,1,2026-03-08
+T067,C1067,21,Atomic Habits,Self Help,1,2026-03-08
+T068,C1068,1,Python Programming,Programming,1,2026-03-09
+T068,C1068,2,Data Science Handbook,Data Science,1,2026-03-09
+T068,C1068,3,SQL Fundamentals,Database,1,2026-03-09
+T068,C1068,11,Operating Systems,Systems,1,2026-03-09
+T068,C1068,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-09
+T069,C1069,1,Python Programming,Programming,1,2026-03-10
+T069,C1069,2,Data Science Handbook,Data Science,1,2026-03-10
+T069,C1069,8,C++ Programming,Programming,1,2026-03-10
+T069,C1069,13,Clean Code,Programming,1,2026-03-10
+T069,C1069,17,The Lord of the Rings,Fiction,1,2026-03-10
+T070,C1070,1,Python Programming,Programming,1,2026-03-11
+T070,C1070,2,Data Science Handbook,Data Science,1,2026-03-11
+T070,C1070,7,Web Development with HTML CSS JS,Web,1,2026-03-11
+T070,C1070,8,C++ Programming,Programming,1,2026-03-11
+T070,C1070,14,Deep Learning,AI,1,2026-03-11
+T071,C1071,5,Machine Learning Basics,AI,1,2026-03-12
+T071,C1071,7,Web Development with HTML CSS JS,Web,1,2026-03-12
+T071,C1071,9,Java Programming,Programming,1,2026-03-12
+T071,C1071,11,Operating Systems,Systems,1,2026-03-12
+T071,C1071,25,Ikigai,Self Help,1,2026-03-12
+T072,C1072,6,Artificial Intelligence,AI,1,2026-03-13
+T072,C1072,10,Computer Networks,Networking,1,2026-03-13
+T072,C1072,11,Operating Systems,Systems,1,2026-03-13
+T072,C1072,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-13
+T072,C1072,13,Clean Code,Programming,1,2026-03-13
+T073,C1073,3,SQL Fundamentals,Database,1,2026-03-14
+T073,C1073,4,Database Management Systems,Database,1,2026-03-14
+T073,C1073,11,Operating Systems,Systems,1,2026-03-14
+T073,C1073,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-14
+T073,C1073,13,Clean Code,Programming,1,2026-03-14
+T074,C1074,2,Data Science Handbook,Data Science,1,2026-03-15
+T074,C1074,9,Java Programming,Programming,1,2026-03-15
+T074,C1074,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-15
+T074,C1074,20,The Great Gatsby,Fiction,1,2026-03-15
+T074,C1074,24,Think and Grow Rich,Self Help,1,2026-03-15
+T075,C1075,4,Database Management Systems,Database,1,2026-03-16
+T075,C1075,7,Web Development with HTML CSS JS,Web,1,2026-03-16
+T075,C1075,13,Clean Code,Programming,1,2026-03-16
+T075,C1075,17,The Lord of the Rings,Fiction,1,2026-03-16
+T075,C1075,20,The Great Gatsby,Fiction,1,2026-03-16
+T076,C1076,3,SQL Fundamentals,Database,1,2026-03-17
+T076,C1076,10,Computer Networks,Networking,1,2026-03-17
+T076,C1076,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-17
+T076,C1076,14,Deep Learning,AI,1,2026-03-17
+T076,C1076,19,1984,Fiction,1,2026-03-17
+T077,C1077,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-18
+T077,C1077,14,Deep Learning,AI,1,2026-03-18
+T077,C1077,20,The Great Gatsby,Fiction,1,2026-03-18
+T077,C1077,21,Atomic Habits,Self Help,1,2026-03-18
+T077,C1077,22,The Psychology of Money,Finance,1,2026-03-18
+T078,C1078,3,SQL Fundamentals,Database,1,2026-03-19
+T078,C1078,6,Artificial Intelligence,AI,1,2026-03-19
+T078,C1078,8,C++ Programming,Programming,1,2026-03-19
+T078,C1078,13,Clean Code,Programming,1,2026-03-19
+T078,C1078,25,Ikigai,Self Help,1,2026-03-19
+T079,C1079,2,Data Science Handbook,Data Science,1,2026-03-20
+T079,C1079,8,C++ Programming,Programming,1,2026-03-20
+T079,C1079,10,Computer Networks,Networking,1,2026-03-20
+T079,C1079,22,The Psychology of Money,Finance,1,2026-03-20
+T079,C1079,25,Ikigai,Self Help,1,2026-03-20
+T080,C1080,3,SQL Fundamentals,Database,1,2026-03-21
+T080,C1080,7,Web Development with HTML CSS JS,Web,1,2026-03-21
+T080,C1080,8,C++ Programming,Programming,1,2026-03-21
+T080,C1080,10,Computer Networks,Networking,1,2026-03-21
+T080,C1080,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-21
+T081,C1081,4,Database Management Systems,Database,1,2026-03-22
+T081,C1081,8,C++ Programming,Programming,1,2026-03-22
+T081,C1081,11,Operating Systems,Systems,1,2026-03-22
+T081,C1081,13,Clean Code,Programming,1,2026-03-22
+T081,C1081,15,Harry Potter,Fiction,1,2026-03-22
+T082,C1082,6,Artificial Intelligence,AI,1,2026-03-23
+T082,C1082,9,Java Programming,Programming,1,2026-03-23
+T082,C1082,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-23
+T082,C1082,15,Harry Potter,Fiction,1,2026-03-23
+T082,C1082,21,Atomic Habits,Self Help,1,2026-03-23
+T083,C1083,7,Web Development with HTML CSS JS,Web,1,2026-03-24
+T083,C1083,9,Java Programming,Programming,1,2026-03-24
+T083,C1083,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-24
+T083,C1083,22,The Psychology of Money,Finance,1,2026-03-24
+T083,C1083,23,Rich Dad Poor Dad,Finance,1,2026-03-24
+T084,C1084,6,Artificial Intelligence,AI,1,2026-03-25
+T084,C1084,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-25
+T084,C1084,13,Clean Code,Programming,1,2026-03-25
+T084,C1084,14,Deep Learning,AI,1,2026-03-25
+T084,C1084,25,Ikigai,Self Help,1,2026-03-25
+T085,C1085,3,SQL Fundamentals,Database,1,2026-03-26
+T085,C1085,6,Artificial Intelligence,AI,1,2026-03-26
+T085,C1085,7,Web Development with HTML CSS JS,Web,1,2026-03-26
+T085,C1085,21,Atomic Habits,Self Help,1,2026-03-26
+T085,C1085,22,The Psychology of Money,Finance,1,2026-03-26
+T086,C1086,6,Artificial Intelligence,AI,1,2026-03-27
+T086,C1086,8,C++ Programming,Programming,1,2026-03-27
+T086,C1086,15,Harry Potter,Fiction,1,2026-03-27
+T086,C1086,18,The Alchemist,Fiction,1,2026-03-27
+T086,C1086,24,Think and Grow Rich,Self Help,1,2026-03-27
+T087,C1087,9,Java Programming,Programming,1,2026-03-28
+T087,C1087,13,Clean Code,Programming,1,2026-03-28
+T087,C1087,14,Deep Learning,AI,1,2026-03-28
+T087,C1087,22,The Psychology of Money,Finance,1,2026-03-28
+T087,C1087,24,Think and Grow Rich,Self Help,1,2026-03-28
+T088,C1088,8,C++ Programming,Programming,1,2026-03-29
+T088,C1088,10,Computer Networks,Networking,1,2026-03-29
+T088,C1088,12,Design and Analysis of Algorithms,Computer Science,1,2026-03-29
+T088,C1088,20,The Great Gatsby,Fiction,1,2026-03-29
+T088,C1088,24,Think and Grow Rich,Self Help,1,2026-03-29
+T089,C1089,2,Data Science Handbook,Data Science,1,2026-03-30
+T089,C1089,8,C++ Programming,Programming,1,2026-03-30
+T089,C1089,11,Operating Systems,Systems,1,2026-03-30
+T089,C1089,13,Clean Code,Programming,1,2026-03-30
+T089,C1089,25,Ikigai,Self Help,1,2026-03-30
+T090,C1090,6,Artificial Intelligence,AI,1,2026-03-31
+T090,C1090,7,Web Development with HTML CSS JS,Web,1,2026-03-31
+T090,C1090,8,C++ Programming,Programming,1,2026-03-31
+T090,C1090,11,Operating Systems,Systems,1,2026-03-31
+T090,C1090,13,Clean Code,Programming,1,2026-03-31
+T091,C1091,3,SQL Fundamentals,Database,1,2026-04-01
+T091,C1091,7,Web Development with HTML CSS JS,Web,1,2026-04-01
+T091,C1091,9,Java Programming,Programming,1,2026-04-01
+T091,C1091,14,Deep Learning,AI,1,2026-04-01
+T091,C1091,20,The Great Gatsby,Fiction,1,2026-04-01
+T092,C1092,7,Web Development with HTML CSS JS,Web,1,2026-04-02
+T092,C1092,11,Operating Systems,Systems,1,2026-04-02
+T092,C1092,12,Design and Analysis of Algorithms,Computer Science,1,2026-04-02
+T092,C1092,22,The Psychology of Money,Finance,1,2026-04-02
+T092,C1092,24,Think and Grow Rich,Self Help,1,2026-04-02
+T093,C1093,13,Clean Code,Programming,1,2026-04-03
+T093,C1093,14,Deep Learning,AI,1,2026-04-03
+T093,C1093,16,The Hobbit,Fiction,1,2026-04-03
+T093,C1093,17,The Lord of the Rings,Fiction,1,2026-04-03
+T093,C1093,22,The Psychology of Money,Finance,1,2026-04-03
+T094,C1094,5,Machine Learning Basics,AI,1,2026-04-04
+T094,C1094,8,C++ Programming,Programming,1,2026-04-04
+T094,C1094,9,Java Programming,Programming,1,2026-04-04
+T094,C1094,18,The Alchemist,Fiction,1,2026-04-04
+T094,C1094,24,Think and Grow Rich,Self Help,1,2026-04-04
+T095,C1095,7,Web Development with HTML CSS JS,Web,1,2026-04-05
+T095,C1095,10,Computer Networks,Networking,1,2026-04-05
+T095,C1095,19,1984,Fiction,1,2026-04-05
+T095,C1095,20,The Great Gatsby,Fiction,1,2026-04-05
+T095,C1095,25,Ikigai,Self Help,1,2026-04-05
+T096,C1096,6,Artificial Intelligence,AI,1,2026-04-06
+T096,C1096,10,Computer Networks,Networking,1,2026-04-06
+T096,C1096,12,Design and Analysis of Algorithms,Computer Science,1,2026-04-06
+T096,C1096,13,Clean Code,Programming,1,2026-04-06
+T096,C1096,18,The Alchemist,Fiction,1,2026-04-06
+T097,C1097,5,Machine Learning Basics,AI,1,2026-04-07
+T097,C1097,8,C++ Programming,Programming,1,2026-04-07
+T097,C1097,12,Design and Analysis of Algorithms,Computer Science,1,2026-04-07
+T097,C1097,13,Clean Code,Programming,1,2026-04-07
+T097,C1097,19,1984,Fiction,1,2026-04-07
+T098,C1098,2,Data Science Handbook,Data Science,1,2026-04-08
+T098,C1098,3,SQL Fundamentals,Database,1,2026-04-08
+T098,C1098,14,Deep Learning,AI,1,2026-04-08
+T098,C1098,17,The Lord of the Rings,Fiction,1,2026-04-08
+T098,C1098,18,The Alchemist,Fiction,1,2026-04-08
+T099,C1099,4,Database Management Systems,Database,1,2026-04-09
+T099,C1099,5,Machine Learning Basics,AI,1,2026-04-09
+T099,C1099,11,Operating Systems,Systems,1,2026-04-09
+T099,C1099,13,Clean Code,Programming,1,2026-04-09
+T099,C1099,23,Rich Dad Poor Dad,Finance,1,2026-04-09
+T100,C1100,6,Artificial Intelligence,AI,1,2026-04-10
+T100,C1100,7,Web Development with HTML CSS JS,Web,1,2026-04-10
+T100,C1100,8,C++ Programming,Programming,1,2026-04-10
+T100,C1100,12,Design and Analysis of Algorithms,Computer Science,1,2026-04-10
+T100,C1100,25,Ikigai,Self Help,1,2026-04-10
